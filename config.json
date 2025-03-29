@@ -1,0 +1,12 @@
+{
+    "ganache_url": "http://127.0.0.1:7545",
+    "my_key": "0xa6491ebE45EEcfeeA6E695ed898aaD8d506011a6",
+    "my_secret_key": "0xdbe32a56207293fa60b0e28b63b912fc2b29803bf9ce1a6724d12da2ac6526dc",
+    "available_balance": 100,
+    "max_transactions": 10,
+    "available_keys": [
+        "0xD1dfB40454acb80203AEdB4db73f39A045FA8927",
+        "0x9E7cA0Befd0f4BAB2A5ED3aa8Ce1cF14Db34d528",
+        "0x6487b83803200d02f7A486C51d496f7b0742a478"
+    ]
+}
